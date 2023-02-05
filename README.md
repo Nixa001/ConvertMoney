@@ -11,6 +11,6 @@
 
         amount of money by the destination currency's exchange rate. 
 
-        ☑️Finally, it displays the result of the conversion to the user.
+        ☑️Finally, it displays the result of the conversion to the user. 
 
         #Nixa001
